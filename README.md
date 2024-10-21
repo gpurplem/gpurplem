@@ -1,10 +1,7 @@
 <div align="left">
 	<h1>💻 Gabriel B</h1>
-	
 	<p>Front end developer. Graduated from Analysis and Development of Systems (Análise e Desenvolvimento de Sistemas - ADS). First time I wrote code: 2021. Some keywords that represent me: gamer, Dead By Daylight, Lo-Fi, cooking, writing.</p>
-	
 	<h2>Technologies:</h2>
- 
 	<img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown"> 
  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
